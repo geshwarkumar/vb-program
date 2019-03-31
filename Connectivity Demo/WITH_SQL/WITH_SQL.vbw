@@ -1,0 +1,4 @@
+frm_login = 52, 52, 939, 494, C, 34, 12, 532, 273, C
+frm_register = 182, 182, 1069, 624, C, 292, 84, 795, 477, C
+frm_changepassword = 0, 0, 0, 0, C, 65, 175, 604, 617, C
+frm_datagrid = 0, 0, 0, 0, C, 0, 0, 0, 0, C
